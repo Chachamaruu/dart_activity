@@ -1,0 +1,7 @@
+Student Name: Randell
+Completed Activities: 8
+Average Score: 87.5
+Passed: true
+Total Score: 700.0
+Remaining Activities: 2
+Has a good score? true
